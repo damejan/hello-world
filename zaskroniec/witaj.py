@@ -1,1 +1,0 @@
-drukuj("WItaj Świecie!")

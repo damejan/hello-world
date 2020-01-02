@@ -1,0 +1,1 @@
+drukuj("Witaj Świecie!")
